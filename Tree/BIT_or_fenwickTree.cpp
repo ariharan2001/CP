@@ -1,3 +1,9 @@
+/*
+    Binary Index Tree
+    used for range query operations
+    getting sum of range O(log n)
+    updating value O(log n)
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
